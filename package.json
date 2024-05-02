@@ -1,0 +1,26 @@
+{
+  "name": "ecommercewebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tasnia-shahrin/KireiKyo_Beauty.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tasnia-shahrin/KireiKyo_Beauty/issues"
+  },
+  "homepage": "https://github.com/tasnia-shahrin/KireiKyo_Beauty#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.19.2",
+    "express.js": "^1.0.0",
+    "firebase-admin": "^12.1.0",
+    "nodemon": "^3.1.0"
+  }
+}
